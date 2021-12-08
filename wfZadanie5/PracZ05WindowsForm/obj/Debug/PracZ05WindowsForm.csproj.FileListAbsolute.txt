@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\bin\Debug\PracZ05WindowsForm.exe.config
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\bin\Debug\PracZ05WindowsForm.exe
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\bin\Debug\PracZ05WindowsForm.pdb
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.Form1.resources
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.Properties.Resources.resources
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.exe
+C:\Users\susal\source\repos\PracZ05WindowsForm\PracZ05WindowsForm\obj\Debug\PracZ05WindowsForm.pdb
