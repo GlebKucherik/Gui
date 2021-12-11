@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\Z07Wf\Z072\bin\Debug\Z072.exe.config
+C:\Users\susal\source\repos\Z07Wf\Z072\bin\Debug\Z072.exe
+C:\Users\susal\source\repos\Z07Wf\Z072\bin\Debug\Z072.pdb
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.Form1.resources
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.Properties.Resources.resources
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.exe
+C:\Users\susal\source\repos\Z07Wf\Z072\obj\Debug\Z072.pdb
