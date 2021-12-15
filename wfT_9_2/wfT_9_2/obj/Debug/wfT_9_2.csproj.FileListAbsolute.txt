@@ -1,0 +1,8 @@
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\obj\Debug\wfT_9_2.Properties.Resources.resources
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\obj\Debug\wfT_9_2.csproj.GenerateResource.cache
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\obj\Debug\wfT_9_2.csproj.CoreCompileInputs.cache
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\bin\Debug\wfT_9_2.exe.config
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\bin\Debug\wfT_9_2.exe
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\bin\Debug\wfT_9_2.pdb
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\obj\Debug\wfT_9_2.exe
+C:\Users\susal\Desktop\Денежное дерево\Programs\wfT_9_2\wfT_9_2\obj\Debug\wfT_9_2.pdb
